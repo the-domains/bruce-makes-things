@@ -1,6 +1,6 @@
 name: Bruce Makes Things
 favicon: null
-layout_spectrum: 0.8694021594710648
+layout_spectrum: 0.8974
 typography_spectrum: 0.34921684651635587
 title: Working Hands
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#d0d9e0'
+    - '#08070d'
+    - '#b2bbc4'
+    - '#2f3130'
+    - '#4f4f4d'
   brandStrength: 0.5625
   lightness: 0.9493835202883929
   saturation: 0.31465203617699444
